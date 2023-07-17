@@ -11,7 +11,7 @@ accessible. They have requested for a mobile application.
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone [https://link-to-project](https://github.com/Sudetpl/MediaProbeMobileApp.git)
 ```
 
 Go to the project directory and get third part packages
@@ -38,9 +38,14 @@ Go to the project directory and get third part packages
 
 - Localization
 
+- Animation
+
 
 ## Screenshots
 
+![Simulator Screenshot - iPhone 14 Pro - 2023-07-18 at 01 17 06](https://github.com/Sudetpl/MediaProbeMobileApp/assets/52575122/7596985f-c704-48d2-9f94-139a992bfbdb)
+![Simulator Screenshot - iPhone 14 Pro - 2023-07-18 at 01 16 46](https://github.com/Sudetpl/MediaProbeMobileApp/assets/52575122/1d040a3f-e194-4aaf-b255-088301a1a007)
+![Simulator Screenshot - iPhone 14 Pro - 2023-07-18 at 01 16 55](https://github.com/Sudetpl/MediaProbeMobileApp/assets/52575122/30de04b4-8762-49d6-b83d-339108da9b6b)
 
 
 ## IDE Version
